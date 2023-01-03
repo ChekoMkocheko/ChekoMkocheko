@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ChekoMkocheko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Cheko Mkocheko
+- 👀 I’m interested in Operating Systems, Networks and Peformance
+- 🌱 I’m currently learning Computer Networks
+- 💞️ I’m looking to collaborate on Operating Systems and Networks open source project
+- 📫 How to reach me at [Linked](https://www.linkedin.com/in/fabian-mkocheko-a3333813a/) and my [personal website](https://chekomkocheko.github.io)
 
 <!---
 ChekoMkocheko/ChekoMkocheko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
